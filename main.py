@@ -889,6 +889,7 @@ def main_menu():
     while True:
 
         print("\n==================================================")
+        print("\n              STOCKEASE                           ")
         print("          INVENTORY MANAGEMENT SYSTEM")
         print("==================================================")
 
